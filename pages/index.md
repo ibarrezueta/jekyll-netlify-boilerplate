@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome
+title: Isaac's Site
 permalink: /
 section: home
 intro_paragraph: >
